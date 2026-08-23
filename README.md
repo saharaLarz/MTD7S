@@ -7,14 +7,5 @@
     Por mais que numa partida casual de truco paulista a pontuação máxima seja de 12 pontos, este marcador vai de 0-19 para economizar trabalho no protótipo.
     *Futuramente teremos um limite de pontuação e mais utilitários (como um indicador sonoro ao apertar o botão).
 
-## Componentes
-    Segue a lista de componentes que serão usados, estão devidamentes divididos:
-### Entrada e Saída
-    - 2 botões switch amarelo
-    - 2 displays de 7 segmentos catodo
-### Filtro de Tensão
-    - Transistor
-    - 2 Capacitores cerâmicos
-### Circuitos Integrados
-    - CD4029BE (Contador)
-    - 
+## Estrutura
+    O circuito sera feito numa placa de fenolite que será corroída em percloreto de ferro e, com a ajuda de um toner, o cobre que permanecerá será a do circuito. A placa de fenolite tem dimensão de 10cm x 10cm e apenas 1 lado dela é coberta por cobre, o que significa que não haverá um circuito para cada lado. 
