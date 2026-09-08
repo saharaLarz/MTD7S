@@ -1,6 +1,6 @@
 # MTD7S - Marca Tento Digital com [Displays de] 7 Segmentos
 
-`Este projeto está relacionado à discipline de Manutenção de Sistemas Eletrônicos na UTFPR`
+`Este projeto está relacionado à disciplina de Manutenção de Sistemas Eletrônicos na UTFPR`
 
 ## Introdução
 A ideia é projetar um pequeno dispositivo que tenha 2 botões e 2 displays de 7 segmentos, a sua principal função é mostrar através dos displays uma contagem controlada manualmente utilizando os botões de acréscimo e decréscimo dos valores.
