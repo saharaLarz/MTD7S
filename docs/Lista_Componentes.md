@@ -26,7 +26,7 @@
 - 1x Bateria de 9V
 - 1x Conector de Bateria de 9V
 
-# Outros
+### Outros
 - 4x Sockets de Microcontrolador
     - 3x 16 pinos
     - 1x 14 pinos
